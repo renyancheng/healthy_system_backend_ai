@@ -1,0 +1,7 @@
+Flask==3.0.2
+Flask_Migrate==4.0.7
+Flask_RESTful==0.3.10
+Flask_Script==2.0.6
+flask_sqlalchemy==3.1.1
+
+zhipuai~=2.0.1
